@@ -19,7 +19,6 @@ Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
 - Umur berapakah paling banyak karyawan resign
 - Bagaimana pengaruh monthly income terhadap kecendrungan resign
 - Kebanyakan pegawai resign adalah yang sudah pindah kerja berapa kali
-- Pengaruh total lama bekerja terhadap kecendrungan resign
 - Pengaruh total lama bekerja di perusahaan ini terhadap kecendrungan resign
 - Pengaruh kenaikan gaji terhadap kecendrungan resign
 
@@ -37,11 +36,22 @@ Setup environment:
 
 ## Business Dashboard
 
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+
+Dashboard dapat di akses menggunakan link berikut: https://public.tableau.com/shared/JKY5YX92R?:display_count=n&:origin=viz_share_link&:device=desktop
 
 ## Conclusion
 
-Jelaskan konklusi dari proyek yang dikerjakan.
+- Pria lebih banyak melakukan resign yitu sebanyak 370, sedangkan wanita hanya 221.
+- Department paling banyak resign adalah Research & Development lalu diikuti Sales dan Human Resource dengan jumlah 367, 193, dan 31 secara berurutan.
+- Pada job Satisfaction resign terbanyak justru terjadi pada kelompok high sebanyak 186 dan paling sedikit pada medium sebanyak 117 orang. Kelompok very high dan low berada ditengah. Hal inimenunjukkan job satisfaction tidak berpengaruh terhadap kecendrungan resign.
+- Pada marital status kategori married berada pada urutan pertama diikuti single dan divorce dengan jumlah 271, 212, dan 108 orang secara berurutan.
+- Performa rating excelen terdapat kasus resign sebanyak 496 orang sedangkan outstanding hanya 95 orang.
+- Kategori excelent pada work life balance terdapat 349 kasus resign, diikuti good dengan 138 orang, outstanding 62 orang, dan pada urutan terakhir low sebanyak 42 orang.
+- Umur 29 merupakan usia paling banyak karyawan resign yaitu sebanyak 36 orang. Usia 60 menjadi yang paling sedikit kasus resign yaitu hanya satu orang.
+- Pendapatan bulanan $2.000 merupakan paling banyak yaitu 170 orang resign, paling sedikit pada pendapatan $14.000 yaitu satu orang.
+- Paling banyak  kasus resign pada orang yang baru pindah kerja satu kali yaitu sebanyak 224 orang dan paling sedikit 18 orang yang telah pindah kerja sembilan kali.
+- Resign paling banyak pada orang yang baru bekerja satu tahun yaitu 87 orang dan paling sedikit adalah yang telah bekerja selama36, 33, 31, 30, 26, dan 24 tauhn yaitu masing-masing satu orang.
+- Resign paling banyak pada orang yang mengalami kenaikan gaji setahun terakhir sebesar 13% adalah 87 orang sedangkan paling sedikit 9 orang pada kenaikan 24%
 
 ### Rekomendasi Action Items (Optional)
 
