@@ -57,5 +57,5 @@ Dashboard dapat di akses menggunakan link berikut: https://public.tableau.com/sh
 
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 
-- action item 1
-- action item 2
+- User bisa menggunakan model machine learning untuk mmprediksi kemungkinan resign karyawan lalu mengadakan pertemuan dengan kelompok karyawan tersebut. User bersama HR bisa melakukan diskusi yang dapat menyerap aspirasi mereka sehingga kecendrungan resign mereka dapat terjawab setelah pertemuan tersebut.
+- Department HR dapat menganalisa dashboard dan menyelidiki kelompok kategori apa saja yang rentan resign, sehingga untuk rekrutmen kedepannya hal tersebut dapat menjadi pertimbangan.
